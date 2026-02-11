@@ -1,0 +1,13 @@
+Tech: Data "Real-time" la varudha (Stock market)? Illa "Batch" ah varudha (Monthly report)?
+
+Variety (Vagaigal): Kitchen: Verum Arisi matuma? Illa Arisi + Kayigari + Masala ellam kalandhu iruka?
+
+Tech: Numbers, Text, Images - ellam kalandhu iruka?
+
+Veracity (Unmai/Quality): Kitchen: Indha paal tharamaana paala?
+
+Tech: Data nambagathanmaiya (Trustworthy) iruka? Illa neraya error iruka?
+
+Metadata (The Packet Label)
+
+Data-va purinjika, data-kulla poga vendam.

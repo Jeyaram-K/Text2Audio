@@ -1,0 +1,1 @@
+"Try 1 spoon salt + 1 spoon chilli." "Try 1 spoon salt + 2 spoon chilli." "Try 2 spoon salt + 1 spoon chilli..." Result: Best combo kedaikum.

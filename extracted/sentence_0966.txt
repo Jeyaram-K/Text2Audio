@@ -1,0 +1,1 @@
+Case C: Train Score: 90% | Test Score: 88% - greater than Good Model (Gethu).

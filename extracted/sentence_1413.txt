@@ -1,0 +1,1 @@
+Horizontal Scaling: 10 chinna stove vaangu (Distributed Computing / Spark).

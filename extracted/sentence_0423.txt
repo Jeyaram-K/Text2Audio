@@ -1,0 +1,3 @@
+Tech: Column Name: "Age" Data Type: "Number" (Integer)
+
+Description: "Age of the customer in years".

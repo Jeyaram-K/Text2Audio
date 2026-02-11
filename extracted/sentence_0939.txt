@@ -1,0 +1,1 @@
+Descent Step size while walking.

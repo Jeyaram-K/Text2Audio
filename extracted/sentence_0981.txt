@@ -1,0 +1,3 @@
+Accuracy (Sariya?)
+
+Formula: (Total Correct / Total Dishes) * 100.

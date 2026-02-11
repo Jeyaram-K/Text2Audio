@@ -1,0 +1,1 @@
+Mean = 0, Standard Deviation = 1.

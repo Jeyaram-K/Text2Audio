@@ -1,0 +1,1 @@
+Example: Swiggy Delivery Time Prediction Goal: "Evlo nerathula food deliver aagum?" (Regression).

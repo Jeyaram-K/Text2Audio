@@ -1,0 +1,3 @@
+Model Inference ( The Serving Moment)
+
+Concept: Training mudinju, Model "Live" ah irukum bodhu, pudhu data-va vangikitu result solra process-ku per dhaan Inference.

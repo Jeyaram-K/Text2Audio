@@ -1,0 +1,3 @@
+Evaluation Metrics for Regression (Alavu Sariya?)
+
+Unga output "Numbers" ah irundha (Eg: Price prediction, Sales prediction), namma indha scales use pannuvom.

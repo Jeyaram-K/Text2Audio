@@ -1,0 +1,5 @@
+Technical Metrics: "Server down aayiducha?" "Evlo memory edukudhu?" "Result vara evlo neram aagudhu?" Business Metrics: "Namma Model recommendation kuduthu, evlo per product vangunanga?" "Customer happy-a?" Monitoring illana, hotel-la thee pidichalum theriyadhu!
+
+Model Drift (Taste Maariduchu!)
+
+Idhu dhaan ML Engineer-oda periya thalai vali.

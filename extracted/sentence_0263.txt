@@ -1,0 +1,1 @@
+Reality: "Romba uppa iruku! 1 spoon dhaan potrukanum." Error (Loss): Prediction (2) - Actual (1) = 1 Spoon Error.

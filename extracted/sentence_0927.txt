@@ -1,0 +1,3 @@
+Loss = Error + Penalty L1 Regularization (Lasso - The Eliminator)
+
+Concept: Head Chef solvaru, "Un kitta 10 masala dabba iruku.

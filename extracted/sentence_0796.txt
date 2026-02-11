@@ -1,0 +1,3 @@
+What is an ML Algorithm? (The Recipe)
+
+Simple-a sonna: Algorithm = Recipe.1 Ingredients: Data (X).

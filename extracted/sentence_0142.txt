@@ -1,0 +1,1 @@
+Usage: Spam filtering (Idhu Spam, Idhu Not Spam), Price prediction.

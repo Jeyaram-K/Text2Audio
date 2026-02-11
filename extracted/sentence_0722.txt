@@ -1,0 +1,3 @@
+What is a Feature? (Ingredient)
+
+Machine Learning-la "Feature" nu sonna, adhu namma Column (X).

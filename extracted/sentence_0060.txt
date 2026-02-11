@@ -1,0 +1,9 @@
+Let’s cook some Intelligence together!
+
+Connect with me: YouTube: Instagram: LinkedIn: Table of Contents Chapter 1: Introduction to Machine Learning Chapter 2: Types of Machine Learning Chapter 3: Why Mathematics and Statistics Matter in ML Chapter 4: Statistics for Machine Learning Chapter 5: Data Understanding Chapter 6: Machine Learning Problem Definition Chapter 7: Dataset Preparation Chapter 8: Data Preprocessing Chapter 9: Exploratory Data Analysis (EDA)
+
+Chapter 10: Feature Engineering Chapter 11: Machine Learning Algorithms Overview Chapter 12: Model Building Process Chapter 13: Model Evaluation Chapter 14: Model Improvement Techniques Chapter 15: Model Deployment Concepts Chapter 16: Machine Learning Project Lifecycle Chapter 17: Tools and Ecosystem (Theory Only)
+
+Chapter 18: Ethics and Responsible AI Chapter 19: Common Challenges in Machine Learning Chapter 20: Future of Machine Learning Introduction to Machine Learning (The Kitchen Basics)
+
+Welcome to the world of AI Kitchen! Before namma heavy-a Biryani seiya kathukurathuku munnadi, assal Samayal (Machine Learning) na enna nu purinjipom.

@@ -1,0 +1,1 @@
+So, endha customer kandippa varuvaru, yaru vara maataru nu kandupudichu, varadhavangala varavaikalaam." Goal: Predict Yes/No (Classification).

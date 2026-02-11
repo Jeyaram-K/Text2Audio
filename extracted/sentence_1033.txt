@@ -1,0 +1,11 @@
+Kitchen: Stove-a Sim-la vekkanuma? High-la vekkanuma? Oven-a 180°C ah 200°C ah?
+
+Machine-la idhu: K (in KNN): Ethana neighbours-a paakanum? 3 ah? 5 ah?
+
+Depth (in Tree): Maram evlo perusa valaranum?
+
+Learning Rate: Evlo fast-a kathukanum?
+
+Idha sari panna rendu vali iruku: Grid Search (The Perfectionist Chef)
+
+Method: Ellathayum try panni paakuradhu.

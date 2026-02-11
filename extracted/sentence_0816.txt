@@ -1,0 +1,3 @@
+The Story: "Oru Dosa ku 5 Rooba." "Rendu Dosa ku 10 Rooba." "Moonu Dosa ku...?" - greater than 15 Rooba!
+
+Logic: Input-kum Output-kum oru Ner-kodu (Straight Line) sambandham irukum.

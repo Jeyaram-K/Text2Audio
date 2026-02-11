@@ -1,0 +1,3 @@
+Defining Input and Output (Ingredients vs Dish)
+
+Oru problem-a define pannum bodhu, X(Input) enna, y(Output) enna nu theliva irukanum.

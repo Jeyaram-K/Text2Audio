@@ -1,0 +1,1 @@
+"Idhu paaka Sambar maari iruku." "Taste-um Sambar maari iruku." "So, idhu Sambar dhaan!" Logic: Pakkathula irukura data points (Neighbours) enna-va iruko, adhuvave idhuvum irukum.

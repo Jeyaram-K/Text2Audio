@@ -1,0 +1,5 @@
+Initial Exploration (Head and Tail)
+
+Coding-la (Pandas) data-va load pannadhum first enna pannanum?
+
+df.head() (Mela paaru): Rice bag-oda Top layer-a alli paakuradhu.

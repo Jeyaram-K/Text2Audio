@@ -1,0 +1,1 @@
+Edhu majority-o adha seiven." Logic: Pala chinna models-a (Weak Learners) onna serthu, oru balamaana model-a (Strong Learner) uruvakuradhu Types: Bagging (Random Forest): Ellarum thani thaniya samaipanga, kadaisiya mix pannuvom.

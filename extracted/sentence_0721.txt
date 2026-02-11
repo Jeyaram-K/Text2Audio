@@ -1,0 +1,5 @@
+Vanga, Kitchen-la konjam magic pannuvom!
+
+Feature Engineering (The Secret Masala)
+
+Machine Learning la oru famous quote iruku: "Algorithms are just tools; Feature Engineering is the art." (Algorithm verum karuvi dhaan, Features dhaan kalai).
