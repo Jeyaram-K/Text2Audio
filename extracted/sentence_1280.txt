@@ -1,3 +1,0 @@
-Cloud vs On-Prem ML Systems (Rent House vs Own House)
-
-Model-a run panna periya computer (Server) venum.

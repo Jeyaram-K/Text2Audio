@@ -1,3 +1,0 @@
-Method A: Label Encoding (Ranking)
-
-Apple = 1 Orange = 2 Banana = 3 Problem: Machine enna nenaikum? "3 is greater than 1".

@@ -1,5 +1,0 @@
-Source Check: Indha data enga irundhu vandhuchu?
-
-Kitchen: Idhu Super market thakkaliya? Illa roadside kadai thakkaliya?
-
-Tech: Idhu Google Analytics data-va? Illa yaaro Excel-la kaiyaala type panna data-va? (Manual entry na thappu irukka vaaipu iruku).

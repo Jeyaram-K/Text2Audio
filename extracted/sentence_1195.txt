@@ -1,1 +1,0 @@
-Simple Logistic Regression podhum.

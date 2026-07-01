@@ -1,3 +1,0 @@
-Balanced vs Imbalanced Datasets (Idli vs Pizza Problem)
-
-Ungaluku oru student-a train pannanum.

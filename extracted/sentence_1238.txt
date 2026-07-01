@@ -1,1 +1,0 @@
-"Print('Hello')" nu sonna podhum.

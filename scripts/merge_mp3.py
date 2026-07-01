@@ -11,9 +11,9 @@ from pathlib import Path
 
 
 def extract_number(filename: str) -> int:
-    """Extract numeric prefix from filename (e.g., '1' from '1-hello.mp3')."""
+    """Extract numeric suffix or prefix from filename (e.g., '0001' from 'sentence_0001.mp3')."""
     basename = os.path.basename(filename)
-    match = re.match(r"(\d+)-", basename)
+    match = re.search(r"(\d+)", basename)
     return int(match.group(1)) if match else float("inf")
 
 

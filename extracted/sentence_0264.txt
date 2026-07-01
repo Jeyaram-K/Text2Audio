@@ -1,3 +1,0 @@
-Step 3: The Adjustment (Optimizer / Gradient Descent)
-
-"Okay, next time uppa kuraikanum." Cook adutha vaati 1.5 spoon podraru.

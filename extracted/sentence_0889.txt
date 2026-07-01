@@ -1,1 +1,0 @@
-Adhu dhaan Loss Function (or Cost Function).

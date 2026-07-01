@@ -1,7 +1,0 @@
-So, Data-va epdi ready panradhu?
-
-Data Collection Strategies (Sourcing the Ingredients)
-
-Data-va enga irundhu edukalam?
-
-Public Datasets (Supermarket): Already yaaro clean panni, packet panni vechirukanga (Kaggle, Google Datasets).

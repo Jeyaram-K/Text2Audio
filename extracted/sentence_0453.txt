@@ -1,1 +1,0 @@
-Appo dhaan alava samaika mudiyum." Goal: Predict the quantity (Regression).

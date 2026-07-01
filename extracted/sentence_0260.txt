@@ -1,5 +1,0 @@
-How ML Models Learn from Data (The Feedback Loop)
-
-Oru Machine epdi dhaan kathukudhu?
-
-Step 1: The Guess (Prediction) Cook (Machine) first time uppu podrom.

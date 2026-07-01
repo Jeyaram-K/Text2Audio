@@ -1,3 +1,0 @@
-Scenario: Unga hotel-la ponna vaaram evlo sales aachu?
-
-Data: "Last week 500 Dosa vithuchu.

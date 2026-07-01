@@ -1,3 +1,0 @@
-Constraints in Real-World ML Systems (Samayal Arai Sikkalgal)
-
-Neenga veetla free-a samaikuradhu vera (Research), Hotel-la order-ku samaikuradhu vera (Production).

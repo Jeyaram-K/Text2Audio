@@ -1,7 +1,0 @@
-Strict Rule: Indha data-va Training appo Model kannula kaattave koodadhu!
-
-Importance of Dataset Size (Pathaathu AI Minds!)
-
-Orey oru vati Biryani senju paathutu, naan Biryani Specialist aayiten" nu sonna nambuveengala?
-
-Small Data: Model ellathaayum Manapaadam (Overfitting) pannidum.

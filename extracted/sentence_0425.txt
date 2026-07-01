@@ -1,5 +1,0 @@
-"Price" column-la irukradhu "Rupees" ah illa "Dollars" ah nu theriyama epdi calculate pannuveenga?
-
-Data Dictionary (Recipes Note)
-
-Oru Project start pannum bodhu, Data Dictionary nu onnu create pannanum.

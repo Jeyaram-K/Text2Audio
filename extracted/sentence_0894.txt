@@ -1,1 +1,0 @@
-Types of Loss Functions: MSE (Mean Squared Error): Thappa (Error) Square panni kooturadhu.

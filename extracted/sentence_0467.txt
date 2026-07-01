@@ -1,1 +1,0 @@
-Multi-class Classification: Idly vs Dosa vs Poori (Image Recognition).

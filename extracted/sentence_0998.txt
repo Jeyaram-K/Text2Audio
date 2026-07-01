@@ -1,7 +1,0 @@
-Cross-Validation (The Stirring Test)
-
-Neenga Sambar-a check panna, verum mela (Top layer) irukura Sambar-a mattum taste panna podhuma?
-
-Adi-la karunju irukalam la?
-
-Adhuku dhaan K-Fold Cross Validation.

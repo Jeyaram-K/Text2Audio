@@ -1,3 +1,0 @@
-Machine Says Kitchen Tech Meaning ↓ / Actual → Analogy Predicted True Positive (TP) False Positive (FP)
-
-Bad (Correct! Ketta muttai-a (Ayyo! Nalla muttai-a (Kettathu) kandupudichitom.) kuppaila potitom - Waste).

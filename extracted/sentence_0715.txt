@@ -1,9 +1,0 @@
-Analysis Type Kitchen Question Best Chart Univariate Customer vayasu enna? Histogram / Box Plot Vilai yeruna sales Bivariate kuraiyudha? Scatter Plot Ellam eppadi connect Multivariate Heatmap aagi iruku?
-
-Pona varsham Trend Line Chart sales epdi?
-
-Anomaly Edhavadhu Box Plot (Dots)
-
-thappa iruka?
-
-Super AI Minds! Chapter 9-la data-va taste panni (EDA), namma kitta irukura ingredients-oda quality-a therinjikitom.

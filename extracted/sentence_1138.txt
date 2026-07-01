@@ -1,3 +1,0 @@
-Version Control for Models (Recipe Book Editions)
-
-Software-ku epdi Git/GitHub irukko, ML-kum versioning mukkiyam.

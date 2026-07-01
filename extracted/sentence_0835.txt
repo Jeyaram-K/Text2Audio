@@ -1,1 +1,0 @@
-Logic: Based on Bayes' Theorem.

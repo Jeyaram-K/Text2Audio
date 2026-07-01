@@ -1,1 +1,0 @@
-Example: Customer Ages: 20, 25, 22, 24, 105.

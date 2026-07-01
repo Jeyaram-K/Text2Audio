@@ -1,1 +1,0 @@
-For example, Linear Regression Equation: y = wx + b y (Output): Taste of the Dish.

@@ -1,1 +1,0 @@
-Mean Absolute Error (MAE) - Simple Mistake Scenario: Neenga 5 Dosa ketta, Machine 3 Dosa kudukudhu.

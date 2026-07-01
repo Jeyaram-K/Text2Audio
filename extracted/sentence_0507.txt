@@ -1,5 +1,0 @@
-Vanga, Market-ku polam!
-
-Dataset Preparation (The Grocery Shopping)
-
-Machine Learning-la oru pazhamozhi iruku: "Garbage In, Garbage Out." (Kuppaiya ulla potta, veliya varadhum kuppai dhaan).

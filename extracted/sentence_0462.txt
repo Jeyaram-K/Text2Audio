@@ -1,1 +1,0 @@
-Kitchen Question: "Indha kalyanathuku evlo kilo Arisi vekkanum?" Output: Continuous Value (50kg, 55.5kg, 100kg).

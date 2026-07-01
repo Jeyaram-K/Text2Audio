@@ -1,1 +1,0 @@
-Initial-a, "Gradient Descent" um "Backpropagation" um paathu naanum bayandhu irukken.

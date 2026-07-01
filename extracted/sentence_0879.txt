@@ -1,3 +1,0 @@
-Learning Parameters from Data (Uppu, Puli, Kaaram)
-
-Machine Learning-la "Parameters" nguradhu dhaan namma ingredients-oda Alavu (Quantity).

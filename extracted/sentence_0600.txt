@@ -1,1 +1,0 @@
-So nanum Average-a 2 spoon potukuren." Tech: Fill missing values with the Mean (Average) of that column.

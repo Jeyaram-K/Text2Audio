@@ -1,5 +1,0 @@
-Feature Refinement (Ingredients Polishing)
-
-Sila neram prachanai Recipe-la (Algorithm) irukadhu, kayigari-la (Data)
-
-Interaction Features: Thakkali thaniya nalla iruku, Poondu thaniya nalla iruku.

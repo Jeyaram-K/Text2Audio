@@ -1,1 +1,0 @@
-Kitchen Question: "Indha dish Veg-a? Non-Veg-a?" Output: Labels / Classes.

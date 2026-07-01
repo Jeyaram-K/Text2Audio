@@ -1,3 +1,0 @@
-The Golden Balance (Bias-Variance Tradeoff): Oru nalla ML Model (Chef)
-
-epdi irukanum na: Basic recipes-a strong-a therinju vechikanum (Low Bias).

@@ -1,3 +1,0 @@
-Test Score (Public Exam): Puthusa oru kelvi (New Data) vandha, unga model epdi perform pannudhu?
-
-Scenario: Case A: Train Score: 99% | Test Score: 50% - greater than Overfitting (Manapaadam / High Variance).

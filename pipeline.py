@@ -6,6 +6,7 @@ Usage:
     python pipeline.py normalize <input.txt> <output.txt>
     python pipeline.py split <input.txt> [-n N] [-o DIR] [-p PREFIX]
     python pipeline.py batch [--input-dir DIR] [--files FILE...] [--output-dir DIR]
+    python pipeline.py merge [-i DIR] [-o FILE] [-s SILENCE]
     python pipeline.py all <input.pdf> [options]  # Full pipeline
 """
 
@@ -14,11 +15,31 @@ import asyncio
 import sys
 from pathlib import Path
 
+# Reconfigure stdout/stderr to handle UTF-8 emojis on Windows
+if sys.platform == 'win32':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except AttributeError:
+        pass
+
+
 # Import functions from existing modules
 from scripts.pdf2txt import pdf_to_txt
 from scripts.normalize_for_tts import normalize_for_tts
 from scripts.split_sentences import split_sentences_to_files
 from scripts.run_batch import run_batch_tts, VOICE, OUTPUT_DIRECTORY
+from scripts.merge_mp3 import merge_audio_files
+
+
+def cmd_merge(args):
+    """Merge MP3 audio files."""
+    merge_audio_files(
+        input_dir=args.input_dir,
+        output_file=args.output,
+        silence_between_ms=args.silence
+    )
+
 
 
 def cmd_pdf2txt(args):
@@ -101,6 +122,7 @@ Examples:
   python pipeline.py normalize input.txt normalized.txt
   python pipeline.py split normalized.txt -n 2 -o ./sentences
   python pipeline.py batch
+  python pipeline.py merge -i ./mp3 -o ./mp3/merged.mp3 -s 500
   python pipeline.py all book.pdf --tts
         """
     )
@@ -142,8 +164,19 @@ Examples:
                          help="Voice name (default: ta-IN-PallaviNeural)")
     p_batch.set_defaults(func=cmd_batch)
     
+    # merge command
+    p_merge = subparsers.add_parser("merge", help="Merge MP3 files into a single file")
+    p_merge.add_argument("-i", "--input-dir", default="./mp3",
+                         help="Directory containing MP3 files to merge (default: ./mp3)")
+    p_merge.add_argument("-o", "--output", default=None,
+                         help="Output merged file path (default: input-dir/merged.mp3)")
+    p_merge.add_argument("-s", "--silence", type=int, default=500,
+                         help="Silence in milliseconds between tracks (default: 500)")
+    p_merge.set_defaults(func=cmd_merge)
+    
     # all command (full pipeline)
     p_all = subparsers.add_parser("all", help="Run full pipeline: PDF → TXT → Normalize → Split")
+
     p_all.add_argument("input", help="Input PDF file path")
     p_all.add_argument("-n", "--sentences", type=int, default=1,
                        help="Sentences per file (default: 1)")

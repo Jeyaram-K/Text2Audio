@@ -1,3 +1,0 @@
-Training a Machine Learning Model (The Cooking Process)
-
-Definition: Training na, Machine kitta Data-va kuduthu, "Idho Ingredients (X), idho Taste (y).

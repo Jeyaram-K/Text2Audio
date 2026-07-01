@@ -1,3 +1,0 @@
-Overfitting and Underfitting (Recap and Deep Dive)
-
-Model train aagum bodhu rendu prachanai varalam.

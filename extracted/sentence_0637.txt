@@ -1,3 +1,0 @@
-Handling Imbalanced Data (Recap)
-
-Last chapter-la "Idli vs Pizza" paathom.

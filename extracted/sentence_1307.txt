@@ -1,1 +1,0 @@
-AWS, Azure (Cloud) vs On-Prem.

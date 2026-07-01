@@ -1,1 +1,0 @@
-Examples: Naive Bayes (Used for Spam filtering).

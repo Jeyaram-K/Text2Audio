@@ -1,3 +1,0 @@
-Oru ML Project-a arambathula irundhu mudivu varaikum (End-to-End) epdi kondu poradhu?
-
-Idhuvaraikum namma thani thaniya paatha ella vishayathayum (Data, Model, Deploy) onna korkka porom.

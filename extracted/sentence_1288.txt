@@ -1,3 +1,0 @@
-Cloud (Cloud Kitchen / Rental)
-
-Concept: Amazon (AWS), Google (GCP), Microsoft (Azure) kitta irundhu server-a Vaadagai-ku (Rent) edukuradhu.

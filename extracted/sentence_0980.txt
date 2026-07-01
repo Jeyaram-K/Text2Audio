@@ -1,3 +1,0 @@
-Evaluation Metrics for Classification (Label Sariya?)
-
-Unga output "Category" ah irundha (Eg: Spam/Not Spam, Cancer/No Cancer), metrics maarum.

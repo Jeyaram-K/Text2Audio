@@ -1,1 +1,0 @@
-Cooking Method: Algorithm (Linear Regression, Decision Tree, etc.).

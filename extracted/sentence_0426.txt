@@ -1,1 +1,0 @@
-Column Name: Tax_Amt Meaning: "Tax Amount paid by user".

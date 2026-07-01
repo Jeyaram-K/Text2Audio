@@ -1,9 +1,0 @@
-Summary Checklist for a Good ML Problem: Before coding, indha checklist tick aagudha nu paarunga: Objective Clear ah? (Sales increase pannanuma? Cost kuraikanuma?)
-
-Type enna? (Regression ah? Classification ah?)
-
-Data iruka? (Ingredients ready ah?)
-
-Constraints enna? (Fast ah venuma? Cheap ah venuma?)
-
-Chef's Note: "A problem well defined is a problem half solved." Kelvi sariya ketta dhaan, badhil (Model) sariya varum.

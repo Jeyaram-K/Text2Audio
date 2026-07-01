@@ -1,3 +1,0 @@
-Data Normalization (Min-Max Scaling)
-
-Ellathayum 0 to 1 kulla kondu varadhu.

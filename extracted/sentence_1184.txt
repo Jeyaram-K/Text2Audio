@@ -1,1 +1,0 @@
-Idhukku per dhaan CI/CD Pipeline (Continuous Integration / Continuous Deployment).

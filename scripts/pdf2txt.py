@@ -13,5 +13,5 @@ def pdf_to_txt(pdf_path, txt_path):
     
     print(f"Converted {pdf_path} to {txt_path}")
 
-# Usage
-pdf_to_txt('raw.pdf', 'raw.txt')
+if __name__ == "__main__":
+    pdf_to_txt('raw.pdf', 'raw.txt')

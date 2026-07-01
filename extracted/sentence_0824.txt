@@ -1,1 +1,0 @@
-Use Case: Loan Approval (Salary ok? Yes - greater than CIBIL ok? Yes - greater than Loan Approve).
